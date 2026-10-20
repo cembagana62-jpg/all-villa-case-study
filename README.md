@@ -4,7 +4,7 @@
 
 Eine Fallstudie von **Cem Bagana** zu Produktkonzeption, Lokalisierung und technischer Umsetzung im Reisebereich.
 
-[Portfolio](https://www.cembagana.de/) · [LinkedIn](https://www.linkedin.com/in/cem-bagana/) · [GitHub-Profil](https://github.com/cembagana62-jpg)
+[Portfolio](https://www.cembagana.de/) · [LinkedIn](https://www.linkedin.com/in/cem-bagana/) · [GitHub-Profil](https://github.com/cem-bagana)
 
 ## Die Aufgabe
 
@@ -67,4 +67,4 @@ All Villa veranschaulicht, wie ich eine komplexe Plattform aus Nutzersicht struk
 
 Zusammengestellt am **20.10.2026** anhand meiner bestehenden Portfolio-Fallstudie, der Projektübersicht und der lokalen Websiteprüfung vom 23.09.2026. Diese Veröffentlichung enthält die Projektvorstellung und eine ausgewählte Portfolio-Aufnahme. Sie ist kein aktuelles Reiseangebot und bestätigt keine geschäftliche Partnerschaft oder produktive Buchungsabwicklung.
 
-Weitere Arbeitsproben: [FA Finance](https://github.com/cembagana62-jpg/fa-finance-case-study) · [Kamm In](https://github.com/cembagana62-jpg/kamm-in-case-study)
+Weitere Arbeitsproben: [FA Finance](https://github.com/cem-bagana/fa-finance-case-study) · [Kamm In](https://github.com/cem-bagana/kamm-in-case-study)
